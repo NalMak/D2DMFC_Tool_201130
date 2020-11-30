@@ -1,0 +1,4 @@
+*.suo
+D2DTool/Debug/
+.vs/
+Debug/
